@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+temp_uploaded_image.jpg
+.streamlit/secrets.toml
+.DS_Store

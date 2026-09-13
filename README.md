@@ -7,10 +7,10 @@ YOLO-based Streamlit app for detecting helmet usage and seatbelt usage in upload
 
 ```
 helmet-seatbelt-detection/
-├── app.py                  # Streamlit app (this is what gets deployed)
+├── app.py                 
 ├── requirements.txt
 ├── models/
-│   ├── helmet_model.pt     # trained YOLOv8 weights — see note below
+│   ├── helmet_model.pt    
 │   └── seatbelt_model.pt
 └── README.md
 ```
